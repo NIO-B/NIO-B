@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any social media platform 
-- 📫 How to reach me +237 677885946
+- 📫 How to reach me on whats App :+237 677885946
 
 <!---
 NIO-B/NIO-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
